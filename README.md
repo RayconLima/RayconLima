@@ -1,33 +1,75 @@
-### Hi there 👋
+# Hi there 👋
 
-
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=RayconLima.visitor-badge)
-
-
-**RayconLima/RayconLima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=RayconLima.visitor-badge) -->
 
 Here are some ideas to get you started:
-
-
 - 🔭 I am currently working on Creative Code 
 - 🌱 I'm currently learning Flutter
-- 👯 I'm looking to collaborate on my [Portifolio]([https://rayconlimabatista.com.br](https://rayconlimabatista.netlify.app/))
+<!-- - 👯 I'm looking to collaborate on my [Portifolio]([https://rayconlimabatista.com.br](https://rayconlimabatista.netlify.app/)) -->
 - 🤔 I’m looking for help with React/NextJs
 - 💬 Ask me about Flutter
 <!-- - 📫 How to reach me: ... -->
 - 😄 Pronouns: He / His
 <!-- - ⚡ Fun fact: ... -->
- 
- <div style="display:flex;" align="center">
-  <a href="https://github.com/RayconLima">
-  <img height="150em" style="justify-content: space-between" src="https://github-readme-stats.vercel.app/api?username=RayconLima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img  height="150em"  style="justify-content: space-between" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayconLima&layout=compact&langs_count=16&theme=dracula"/>
-   <img height="150em" style="justify-content: space-between" src="https://github-readme-streak-stats.herokuapp.com/?user=RayconLima&" alt="rayconbatista" />
- </a>
-   </div>
- 
 
-![Snake animation](https://github.com/RayconLima/RayconLima/blob/output/github-contribution-grid-snake.svg)
+# <img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"/> Technologies That I Know
 
-<!-- <img style="float: right;" src="https://dashboard.snapcraft.io/site_media/appmedia/2017/11/webide.ico_HA9tBL0.png"> -->
+<table align="center"><tr><td valign="top" width="20%">
+
+### <div align="center"> Frontend </div>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=vuejs,nuxtjs,react,nextjs,tailwind,pinia&theme=dark&perline=3" />
+</p>
+
+</td><td valign="top" width="20%">
+
+### <div align="center"> Backend </div>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,ts&theme=dark&perline=2" />
+</p>
+
+</td><td valign="top" width="20%">
+
+### <div align="center"> Databases </div>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&theme=dark&perline=2" />
+</p>
+
+</td><td valign="top" width="20%">
+
+### <div align="center"> Tools </div>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=rabbitmq,docker,vscode,githubactions,vercel,netlify&theme=dark&perline=3" />
+</p>
+
+</td></tr></table>
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RayconLima&theme=radical" />
+</p>
+
+
+<p style="display:flex" align="center">
+  <img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RayconLima&theme=radical" />
+  <img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RayconLima&theme=radical" />
+</p>
+
+# 📫 Connect With Me
+
+<div align="center">
+<a href="https://www.linkedin.com/in/raycon-lima-batista/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://stackshare.io/rayconlimabatista/my-stack" target="_blank">
+<img src="https://img.stackshare.io/fe/ss-logo.png" width="180px" alt=linkedin style="margin-bottom: 5px;" />
+</a>   
+</div>  
+<br/><br/>
+
 
