@@ -54,9 +54,9 @@
 </p>
 
 
-<p style="display:flex" align="center">
-  <img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RayconLima&theme=radical" />
-  <img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RayconLima&theme=radical" />
+<p style="display:flex;justify-content:space-between" align="center">
+  <img style="width:49%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RayconLima&theme=radical" />
+  <img style="width:49%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RayconLima&theme=radical" />
 </p>
 
 # 📫 Connect With Me
