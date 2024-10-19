@@ -1,4 +1,8 @@
 # Hi there 👋
+<p align="center">
+<img src="images/banner linkedin.jpg" />
+</p>
+
 
 <!-- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=RayconLima.visitor-badge) -->
 
