@@ -2,11 +2,10 @@
 
 <!-- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=RayconLima.visitor-badge) -->
 
-Here are some ideas to get you started:
-- 🔭 I am currently working on Creative Code 
-- 🌱 I'm currently learning Flutter
+- 🔭 I am currently working for myself 
+- 🌱 I'm currently learning TALL Stack
 <!-- - 👯 I'm looking to collaborate on my [Portifolio]([https://rayconlimabatista.com.br](https://rayconlimabatista.netlify.app/)) -->
-- 🤔 I’m looking for help with React/NextJs
+- 🤔 I’m looking for help with Livewire
 - 💬 Ask me about Flutter
 <!-- - 📫 How to reach me: ... -->
 - 😄 Pronouns: He / His
