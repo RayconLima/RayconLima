@@ -63,8 +63,6 @@
   <img style="width:49%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RayconLima&theme=radical" />
 </p>
 
-![Snake animation](https://github.com/RayconLima/RayconLima/blob/output/github-contribution-grid-snake.svg)
-
 # 📫 Connect With Me
 
 <div align="center">
