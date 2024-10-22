@@ -73,7 +73,7 @@
 <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://stackshare.io/rayconlimabatista/my-stack" target="_blank">
-<img src="https://img.stackshare.io/fe/ss-logo.png" width="180px" alt=linkedin style="margin-bottom: 5px;" />
+<img src="https://img.stackshare.io/fe/ss-logo.png" width="180px" alt=stackshare style="margin-bottom: 5px;" />
 </a>   
 </div>  
 <br/><br/>
