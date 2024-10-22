@@ -62,6 +62,9 @@
   <img style="width:49%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RayconLima&theme=radical" />
   <img style="width:49%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RayconLima&theme=radical" />
 </p>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/RayconLima/RayconLima/output/snake.svg" alt="Snake animation" />
 
 # 📫 Connect With Me
 
